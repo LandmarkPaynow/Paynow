@@ -1,5 +1,4 @@
 landmark
-simon
 dominion
 mercy
 Obi
