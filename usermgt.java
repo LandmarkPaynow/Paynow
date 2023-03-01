@@ -6,3 +6,4 @@ ayo
 Manager
 Datii
 Mayo
+Bolu
