@@ -1,3 +1,2 @@
-This is great. 
-Developing java apps
-isuues not resolved
+Look at root cause
+I need to achieve results
